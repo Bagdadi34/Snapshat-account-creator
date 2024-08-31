@@ -1,4 +1,4 @@
-# Snapshat-accourt-creator
+# Snapshat-account-creator
 - email or number
 - confirmation email or number
 - need proxies
